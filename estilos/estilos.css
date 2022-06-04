@@ -15,6 +15,7 @@ body
     background: #113910;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 1);
     color: whitesmoke;
+    text-align: left;
     font-weight: bold;
     font-size: 1cm;
     margin: 0;
@@ -27,6 +28,7 @@ body
     width: 100px;
     vertical-align: middle;
 }
+
 #Cabecera #tagline
 {
     padding: 10px 50px 20px;
